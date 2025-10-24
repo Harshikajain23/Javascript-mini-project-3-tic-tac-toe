@@ -25,6 +25,7 @@
     border: 1px solid rgba(255, 255, 255, 0.25);
     padding: 0.5rem 3rem;
     text-align: center;
+    height: 45px;
 }
 
 .tic-tac-toe{
@@ -47,7 +48,8 @@
     aspect-ratio: 1/1;
     cursor: pointer;
     font-size: 3rem;
-    color: #615d5df4;
+    color: white;
+    font-weight: 500;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -68,6 +70,7 @@
 
 .btn{
     /* color: rgba(97, 93, 93, 0.955); */
+    height: 45px;
     color: white;
     cursor: pointer;
     position: absolute;
@@ -79,7 +82,7 @@
     border: 1px solid rgba(255, 255, 255, 0.25);
     padding: 0.5rem 2rem;
     cursor: pointer;
-    /* display: none; */
+    display: none;
 }
 
 .btn.active{
