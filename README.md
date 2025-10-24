@@ -1,2 +1,2 @@
 A simple Tic-tac-toe using HTML, CSS and Javascript
-![ALT text](assets/tic-tac-toe.JPG)
+![ALT text](Assets/tic-tac-toe.JPG)
