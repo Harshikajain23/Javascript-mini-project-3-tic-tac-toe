@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="X and O peach icon">
+  <!-- peach circular background -->
+  <circle cx="32" cy="32" r="30" fill="#ffdab9"/>
+
+  <!-- O (orange) -->
+  <circle cx="23" cy="32" r="8" fill="none" stroke="#f97316" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- X (reddish pink) -->
+  <g stroke="#e11d48" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="36" y1="24" x2="48" y2="40"/>
+    <line x1="48" y1="24" x2="36" y2="40"/>
+  </g>
+</svg>
