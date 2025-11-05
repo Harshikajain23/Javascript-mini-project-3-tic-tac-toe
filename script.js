@@ -95,7 +95,7 @@ function checkGameOver(){
     // check
     let fillCount = 0;
     gameGrid.forEach((box)=>{
-        if(box !== empty){
+        if(box !== ""){
             fillCount++;
         }
     
