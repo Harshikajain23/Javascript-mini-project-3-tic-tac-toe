@@ -1,4 +1,4 @@
-![ALT text](Assets/tic-tac-toe.JPG)
+![ALT text](/tic-tac-toe.JPG)
 # Tic-Tac-Toe – AI Powered
 
 A simple **Tic-Tac-Toe** game built with **HTML, CSS, and JavaScript**, featuring an AI opponent powered by the **Minimax algorithm**. Play against an **unbeatable AI** and enjoy a clean, responsive interface.
