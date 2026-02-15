@@ -4,6 +4,9 @@
 A simple **Tic-Tac-Toe** game built with **HTML, CSS, and JavaScript**, featuring an AI opponent powered by the **Minimax algorithm**. Play against an **unbeatable AI** and enjoy a clean, responsive interface.
 
 ---
+## Live Demo
+
+[Play Tic-Tac-Toe Here](https://harshikajain23.github.io/Javascript-mini-project-3-tic-tac-toe/)
 
 ## Features
 
